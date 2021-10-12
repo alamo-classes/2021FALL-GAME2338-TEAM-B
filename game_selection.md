@@ -26,11 +26,7 @@ I give this game a 9 star rating out of 10 stars.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After playing rocket league for a while, I have to say, I really enjoyed playing the game. It's basically soccer but with a twist. You're using cars and depending on the game mode you have different soccer balls. You can go as far as customizing your car, and customizing some side effects when you score a goal. I do like the different types of game modes, because it brings new elements to be played around with. It makes the game more interesting because you can use power-ups or different tricks depending on the game mode. The one thing I personally love is the pass. You can buy the pass and every time you reach a tier on it, you can unlock something for your cars or items to put on your cars. And if you wish to buy more cars, you can inside the item shop. Overall, I really enjoy the game, it's very different from what you normally play. With that being said, I hope you enjoy playing the game as much as I do.
 
 ## Additional Information
 
