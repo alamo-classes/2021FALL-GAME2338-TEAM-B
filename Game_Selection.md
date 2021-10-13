@@ -26,7 +26,7 @@ Rocket League also has different game modes than just soccer. Ice hockey is a mo
 
 ## Final Thoughts
 
-Overall, Rocket League was excellent the game idea is fun and engaging. I love the many modes that it has and noun of them felt terrible. The controls for this game were perfect having good physics and driving mechanics with a sense of speed. I love the customization that I gave to my car every time I earned currency for it. I think the only terrible thing about this game is playing alone with an AI. The AI is not that smart and that can make the game not challenging. I prefer to play with friends or others since it was made with multiplayer in mind. Me and my team chose this because of it's multiplayer experience.
+Overall, Rocket League was excellent the game idea is fun and engaging. I love the many modes that it has and noun of them felt terrible. The controls for this game were perfect having good physics and driving mechanics with a sense of speed. I love the customization that I gave to my car every time I earned currency for it. I think the only terrible thing about this game is playing alone with an AI. The AI is not that smart and that can make the game not challenging. I prefer to play with friends or others since it was made with multiplayer in mind. Me and my team chose this game because of it's multiplayer experience.
 
 ## Additional Information
 
