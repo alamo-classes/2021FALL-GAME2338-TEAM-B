@@ -1,33 +1,35 @@
-# Rocket League
+# Game Review for Rocket League
 
 ## Details
 
 ### Game Title
 
 * Rocket League
-* https://www.rocketleague.com/
 * https://www.epicgames.com/store/en-US/p/rocket-league
-* https://store.steampowered.com/news/app/252950
 * https://store.playstation.com/en-us/concept/203715/
-* https://www.microsoft.com/en-us/p/rocket-league/c125w9bg2k0v#activetab=pivot:overviewtab
 * https://www.nintendo.com/games/detail/rocket-league-switch/
+* https://www.microsoft.com/en-us/p/rocket-league/c125w9bg2k0v?rtc=1&activetab=pivot:overviewtab
 
 ### Rating
 
-# 9/10
+I give this game a 9 star rating out of 10 stars.
 
 ## Summary
 
-Rocket League is a competitive multiplayer vehicle soccer game developed and published by Psyonix. The game is about cars playing soccer and it is up to your team to score as many points as possible before time runs out. You score points by driving your car into the ball and into the goal. Whoever has the most points win. The game is very competitive and requires team work if players want to win. Each team can go up to eight players and your team will be trying to stop the opposite side of the field from scoring. The game also lets players customize cars for more fun. This game idea works very well and challenged me to get better with my team to win. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rocket league is a fast paced game and must score goals on their oponents net. You can choose to work as a team or play on your own in certain game modes. When you do choose to work as a team, you really have to communicate with one another offensively and defensively to score goals or protect your net. The team with the highest goals wins, but if you guys end in a tie, you will lead into overtime in a short period of time until a team scores.
 
-Rocket League controls are like a car. Players will be driving and accelerating across the field with precision to get the ball. Cars can jump in the air for aerial maneuvers such as flips and corkscrew. The game is physics based so the ball will be in the air when a car hits it. Vehicles can traverse on wall giving the player a better angle to hit the ball when airborne. Cars have the ability to boost for a short burst of speed for a brief time. Boosting is important for control and players will need to manage the boost by running over pads that are on the floor for refills. I love the controls they are very fluid and responsive for this style of game. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Throughout the game, you will have the ability to boost to catch up to the ball or hit the ball harder to score on your oponents net. Don't worry if you run out of boost, you can restock up on boost with the boost pads they have throughout the field. If you'd like you can even fully charge it with one of the special boost pads they have on the field. You'll notice they look different than your normal boost pad. Another little neat trick is when you boost, you can actually use that boost to fly in the sky for a bit. If you can time it perfectly you can actually fly with the ball from one side of the field to the other side and score your easy goal. 
 
-Rocket League also has different game modes than just soccer. Ice hockey is a mode where the ball is now a puck and can slide on the floor for different movement. Basketball mode is where players now need to get the ball into a hoop in the air instead of a goal net. Drop shot is where you now need to break the opponent's floor and drop the ball into the hole to score a point. Finally, rumble mode is where cars can get power ups to control or interrupt the ball on the field. All these modes are fun and intuitive and did not hamper my experience. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rocket league is also known for its game modes. They have a variety of game modes from solo, 2v2, 3v3 and some other creative game modes like hoops, chaos & even snow day. So if you have friends to play with you can go with  some 2v2's or 3v3's. Or if you want to play with other people in the community, they have an online option too! You can choose to play unranked or ranked if you feel competitive. My personal favorite is the game mode hoops. Instead of soccer nets, its a basketball court field and instead of making the ball go straight into the net, you have to bounce the ball relatively high in order to score the goal into the hoop. Once you get the hang of it, you'll love it! 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now onto the competitive side of the game. When I first started playing, I would've never thought you could do all sorts of tricks on scoring to your oponents net. You can fly up in the air, you can backflip it, you can front flip, you can bounce it off other cars or walls within the arena. There is endless possibilities on how you can manage to score it. Now as far as ranks goes, you have Silver Tier, Gold Tier, Blue Tier and Champion Tier. Each tier has 4 titles in them except Champion Tier, that one only has 3 titles. In order to be ranked, you need to play 10 ranked games and out of those 10 games, you'll be tested on your performance meaning how many points you got. But what really affects you is the win or lose scenario. If you lose 1 game, that will affect you more than just points, meaning you need to win at all costs.
 
 ## Final Thoughts
 
-Overall, Rocket League was excellent the game idea is fun and engaging. I love the many modes that it has and noun of them felt terrible. The controls for this game were perfect having good physics and driving mechanics with a sense of speed. I love the customization that I gave to my car every time I earned currency for it. I think the only terrible thing about this game is playing alone with an AI. The AI is not that smart and that can make the game not challenging. I prefer to play with friends or others since it was made with multiplayer in mind. Me and my team chose this game because of it's multiplayer experience.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After playing rocket league for a while, I have to say, I really enjoyed playing the game. It's basically soccer but with a twist. You're using cars and depending on the game mode you have different soccer balls. You can go as far as customizing your car, and customizing some side effects when you score a goal. I do like the different types of game modes, because it brings new elements to be played around with. It makes the game more interesting because you can use power-ups or different tricks depending on the game mode. The one thing I personally love is the pass. You can buy the pass and every time you reach a tier on it, you can unlock something for your cars or items to put on your cars. And if you wish to buy more cars, you can inside the item shop. Overall, I really enjoy the game, it's very different from what you normally play. With that being said, I hope you enjoy playing the game as much as I do.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+* https://www.nfhs.org/media/1020429/what-is-rocket-league_.pdf
+* https://www.polygon.com/2016/8/4/12384556/rocket-league-game-modes-ranking-guide
+
