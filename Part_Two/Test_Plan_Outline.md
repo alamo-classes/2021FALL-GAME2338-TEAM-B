@@ -30,7 +30,21 @@ Team B will be looking for these Qualitys:
 
 ## Environment/User Community
 
-Identify user community and where testing will be performed
+For the Environment we will be using GitHub and Visual Studio. We will be in a Development environment doing unit testing. 
+
+These are the Test we will be doing: 
+
+* Coding Test 
+
+* Unit Test 
+
+* Intergrations Test 
+
+* Regression Test 
+
+* User Test 
+
+* Acceptance Test
 
 ## Test Objectives
 
