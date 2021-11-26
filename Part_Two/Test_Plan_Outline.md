@@ -2,7 +2,31 @@
 
 ## Summary
 
-Summarize the project and the functions of the software to be tested
+A car physics game with online multiplayer that lets players face off against each other in an 8 vs 8 soccer like experience. The Unreal Engine is the engine that is used for Rocket league and will be tested on PC, PlayStation 4, Xbox One, and Nintendo Switch. 
+
+Team B will be looking for these Qualitys: 
+
+* Correctness – satisfies requirements 
+
+* Reliability – performs intended function consistently 
+
+* Efficiency – amount of computing resources or code 
+
+* Integrity – controlled access to the software 
+
+* Usability – effort required to learn software 
+
+* Maintainability – locating and fixing errors 
+
+* Testability – effort required to test 
+
+* Flexibility – effort required modifying operational program 
+
+* Portability – effort required to transfer from one configuration to the next 
+
+* Reusability – program can be used in other applications 
+
+* Interoperability – effort to couple one system with another 
 
 ## Environment/User Community
 
