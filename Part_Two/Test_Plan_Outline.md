@@ -30,7 +30,11 @@ Team B will be looking for these Qualitys:
 
 ## Environment/User Community
 
-For the Environment we will be using GitHub and Visual Studio. We will be in a Development environment doing unit testing. 
+For the Environment we will be using GitHub and Visual Studio. We will be in a Development environment doing unit testing to write out the code. After that we will  do a QA Environment looking for failures that are happening in the build. Finally the Stage Environment is where we will see if it meets the criteria of the product. 
+
+
+
+## Test Objectives
 
 These are the Test we will be doing: 
 
@@ -45,10 +49,6 @@ These are the Test we will be doing:
 * User Test 
 
 * Acceptance Test
-
-## Test Objectives
-
-State objectives to be accomplished by testing
 
 ## Acceptance Criteria
 
