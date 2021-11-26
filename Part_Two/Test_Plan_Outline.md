@@ -4,7 +4,7 @@
 
 A car physics game with online multiplayer that lets players face off against each other in an 8 vs 8 soccer like experience. The Unreal Engine is the engine that is used for Rocket league and will be tested on PC, PlayStation 4, Xbox One, and Nintendo Switch. 
 
-Team B will be looking for these Qualitys: 
+We will be looking for these Qualitys: 
 
 * Correctness – satisfies requirements 
 
