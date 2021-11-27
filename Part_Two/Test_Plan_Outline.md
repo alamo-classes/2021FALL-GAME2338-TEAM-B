@@ -87,7 +87,7 @@ Bugs Fixed
 
 ## References
 
-* List any reference documents
+* https://support.rocketleague.com/hc/en-us/sections/1260801727450-Rocket-League-Troubleshooting
 
 # Section 2: Plan
 ## Test Description
