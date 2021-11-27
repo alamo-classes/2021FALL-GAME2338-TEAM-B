@@ -92,11 +92,22 @@ Bugs Fixed
 # Section 2: Plan
 ## Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
+* DualShock 4 controller (PlayStation 4)
+* Keyboard/Mouse/Controller (PC)
+* Xbox One controller (Xbox One, PC)
+* Nintendo Switch Joycons and Pro Controller
+* Menus
+* UI
+* PlayStation
+* Xbox
+* PC
+* Nintendo Switch
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
+* Wesley Winchester- Test Plan
+* Jonathan Sanchez- Test Case
+* Javier Padilla- Test Report
 
 ## Milestones
 
