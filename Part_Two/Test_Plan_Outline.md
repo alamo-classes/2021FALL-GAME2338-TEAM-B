@@ -52,7 +52,38 @@ These are the Test we will be doing:
 
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
+The game meets many of the criterias with it's gameplay, features, and online multiplayer. With Rocket league season 5 out with new arena variant players are now able to see what needs to be reported.
+
+Players Report:
+* Text Harassment
+* Verbal Harassment
+* Match Throwing or Griefing
+* Intentionally Idle
+* XP Farming
+* Inappropriate Player Name
+* Inappropriate Club Name
+* Trade Scam
+
+Report players via the Main Menu:
+* You can now report players from the Recent Players section of your Friends List
+* Go to Recent Players, select the relevant player name, and choose Report Player
+* The report reasons listed here are identical to the reasons available during a match
+* You can now select more than one report reason
+* Example: If a teammate is harassing you in team chat, and is also own-goaling, you can select both “Text Harassment,” and “Match Throwing or Griefing”
+When reporting a player for Text Harassment, press the Chat Log button to see chat lines from the reported player
+A new pop-up notification will appear when you successfully report another player
+To keep in-game visibility clear, this message will appear in the upper-left corner if you are reporting during a match
+
+Bugs Fixed
+
+* Fixed controller focus bug on post-match celebration screen
+* Fixed appearance of the Tumbling Blocks Decal
+* The grill on Painted Tygris cars may show as unpainted when some non-animated Decals are equipped
+* Fixed a bug preventing Apex Wheels from being equipped on '99 Nissan Skyline GT-R R34
+* Removed option to add friend as Epic Friend when they are already on your friends list
+* Fixed a bug preventing NFL Decals from showing up in Garage when using Filters
+* The Mood Slime Rocket Boost no longer appears over the top of certain car bodies when in the Garage
+* Fixed an issue preventing certain car movements from resetting the idle player timer
 
 ## References
 
