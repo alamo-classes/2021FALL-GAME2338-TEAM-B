@@ -5,7 +5,7 @@
 * Test Case ID:
   * 105876
 * Test Case Name:
-  * RocketFireEmblam
+  * RocketFireEmblem
 * Component: 
   * Controls for car
   * Menues
