@@ -25,7 +25,7 @@ We are in the production environment where the game has already shipped and is a
 
 #### Hardware Configuration
 
-We ran our tests on the various platforms that Rocket League is opperating on. This includes PC, Switch, Playstation, and Xbox. Though the consoles are all the same for the most part, the PC is where it gets more interesting as different specs may run the game differently. For clearity, the game will be run on a GTX 1660 graphics card with a Rhyzen 5 processor. 
+We ran our tests on the various platforms that Rocket League is opperating on. This includes PC, Switch, Playstation, and Xbox. Though the consoles are all the same for the most part, the PC is where it gets more interesting as different specs may run the game differently. For clearity, the game will be run on a GTX 1660 graphics card with a Ryzen 5 processor. 
 
 ### Recommendation
 
