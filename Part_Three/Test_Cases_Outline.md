@@ -8,7 +8,7 @@
   * RocketFireEmblem
 * Component: 
   * Controls for car
-  * Menues
+  * Menu's
   * Multiplayer
   * Online
   * Features
@@ -22,7 +22,7 @@
   * 12/4/2021
 * Requirements Covered:
   * Controls for car
-  * Menues
+  * Menu's
   * Multiplayer
   * Online
   * Features
