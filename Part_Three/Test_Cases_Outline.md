@@ -27,7 +27,7 @@
   * Online
   * Features
 * Test Description/Purpose:
-  * Are theses functoning
+  * Are theses functioning
 * Pre-Test Conditions:
   * PC
   * PlayStation
