@@ -5,10 +5,10 @@
 * Test Case ID:
   * 105876
 * Test Case Name:
-  * RocketFireEmblam
+  * RocketFireEmblem
 * Component: 
   * Controls for car
-  * Menues
+  * Menu's
   * Multiplayer
   * Online
   * Features
@@ -22,7 +22,7 @@
   * 12/4/2021
 * Requirements Covered:
   * Controls for car
-  * Menues
+  * Menu's
   * Multiplayer
   * Online
   * Features
@@ -36,16 +36,16 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Controls |Functonal|√ |			
-| 2 |Menues |Functonal |√ |			
-| 3 |Multiplayer |Functonal |√ |			
+| 1 |Controls |Functional|√ |			
+| 2 |Menu's |Functional |√ |			
+| 3 |Multiplayer |Functional |√ |			
 | 4 |Online |Needs more work |- |			
-| 5 |Sound |Functonal |√ |			
-| 6 |Users |Functonal |√ |			
-| 7 |PC |Functonal |√ |			
-| 8 |Playstation |Functonal |√ |			
-| 9 |Xbox |Functonal |√ |			
-| 10 |Nintendo Switch |Functonal |√ |			
+| 5 |Sound |Functional |√ |			
+| 6 |Users |Functional |√ |			
+| 7 |PC |Functional |√ |			
+| 8 |Playstation |Functional |√ |			
+| 9 |Xbox |Functional |√ |			
+| 10 |Nintendo Switch |Functional |√ |			
 
 ## Overall Test Status:
 
