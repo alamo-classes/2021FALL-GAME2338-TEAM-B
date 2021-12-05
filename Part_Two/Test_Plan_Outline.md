@@ -129,16 +129,27 @@ TestReport - Javier Padilla - $63,676
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+* GitHub
+* Test Objectives
+* Quality
+* Coding
+* Playstation
+* Xbox
+* Nintendo Switch
+* PC
+* TestPlan - Wesley Winchester
+* TestCase - Jonathan Sanchez
+* TestReport - Javier Padilla    
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+https://rocketleague.fandom.com/wiki/Controls
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+* Evaluate games
+* Analyze games
+* Identify any problems or issues that may have been missed
 
 # Section 3: Specifications and Evaluations
 
@@ -146,30 +157,49 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+* Design
+* Graphics
+* Software
+* Tests
+* Sound
+* Quality
+* Controls
+* Code
 
 ### Software/Game Functions
 
-* List any software requirements (list)
+* PlayStation
+* Xbox
+* Nintendo Switch
+* PC
+* Windows
+* Linux
+* iOS
+* Google Stadia
+* macOS
 
 ### Test/Function Relationships
 
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
+* Pre-Production
+* Production
+* Post-Production
 
 ### Test Progression
-Describe how progression is made from one test to another
+* Prototyping
+* Progress
+* Shiping
+* Gold
 
 ## Methods and Constraints
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
+Goal of Game testing is to identify defects such as bugs in a video game and to improve the stability and performance.
 
 ### Extent of Testing
 
-Full or partial testing and explanation
+type of testing are done to verify that a code changes software that doesn't impact extent of testing.
 
 ### Constraints
 
-Describe any test condition constraints such as interfaces or data
+Nothing that interfears with anything we have done in all testing.
