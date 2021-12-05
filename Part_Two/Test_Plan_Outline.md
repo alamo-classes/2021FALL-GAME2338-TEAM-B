@@ -111,11 +111,20 @@ Bugs Fixed
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
+* Online at home using Discored.
+* Test Plan, Case, Report, and Status Report
+* September9th - December3rd 
 
 ## Budgets
 
-Funds allocated to testing by task
+Annual Salary
+
+TestPlan - Wesley Winchester - $104,000
+
+TestCase - Jonathan Sanchez - $31,000
+
+TestReport - Javier Padilla - $63,676 
+
 
 ## Testing
 ### Requirements
