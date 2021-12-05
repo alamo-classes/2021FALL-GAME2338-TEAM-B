@@ -194,11 +194,11 @@ https://rocketleague.fandom.com/wiki/Controls
 
 ### Test Methodology
 
-Goal of Game testing is to identify defects such as bugs in a video game and to improve the stability and performance.
+Some of the Game testing we did was to identify defects such as bugs in a video game and to improve the stability and performance.
 
 ### Extent of Testing
 
-type of testing are done to verify that a code changes software that doesn't impact extent of testing.
+Type of testing are done to verify that a code changes software that doesn't impact extent of testing.
 
 ### Constraints
 
