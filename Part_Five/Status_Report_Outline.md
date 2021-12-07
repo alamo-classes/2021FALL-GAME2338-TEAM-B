@@ -1,13 +1,14 @@
 # Group Meeting
 
-* Date: 
-* Time: 
-* Location: (you can meet virtually or in person)
+* Date: September, 14th  
+* Time: 10:00PM
+* Location: Virtually
 
 # Who Attended
 
-* First Name Last initial
-* First Name Last initial
+* Wesley W
+* Jonathan S
+* Javier P
 
 # Project Schedule
 
