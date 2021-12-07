@@ -18,9 +18,9 @@ We assigned each of us to do a task for each test. This helps us keep track of w
 
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 |10/15/2021 |Wesley W |Testing |			
-| 2 |10/25/2021 |Jonathan S |Testing|			
-| 3 |10/30/2021 |Javier P |Testing|
+| 1 |10/15/2021 |Wesley W |√ |			
+| 2 |10/25/2021 |Jonathan S |√|			
+| 3 |10/30/2021 |Javier P |√|
 
 # Changes
 
