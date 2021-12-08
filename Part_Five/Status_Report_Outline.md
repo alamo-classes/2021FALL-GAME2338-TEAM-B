@@ -47,4 +47,4 @@ A lot has been completed during testing many of the were successful. Controls ar
 
 # General Notes/Overall Status
 
-(Paragraph)
+Many of the test that overall had no issues and met each requierment. Team members did there part for each test and what needed to be solved. The game console worke very well and improved the game. The Qualitys were met and felt great meeting each and every test.
