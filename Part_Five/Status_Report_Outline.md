@@ -43,7 +43,7 @@ We assigned each of us to do a task for each test. This helps us keep track of w
 
 ## What has been completed and date of completion
 
-(Paragraph)
+A lot has been completed during testing many of the were successful. Controls are functonal and work great with a keyboard or a controller this was tested in october. The functionality of game consoles work great and have no issues on performing them tested on november. Multiplayer is another successful feature in the game playing with frens and other this was tested in november. Sound is good nothing that was distracting or ruined the gameplay tested in october. User is also functonal and works as intended tested in december. Our team met most of the assigned test that were met and the resoults are good. 
 
 # General Notes/Overall Status
 
