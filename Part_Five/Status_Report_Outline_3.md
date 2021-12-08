@@ -7,7 +7,7 @@
 # Who Attended
 
 * Wesley W
-* Johnathan S
+* Jonathan S
 * Javier P
 
 # Project Schedule
