@@ -37,8 +37,8 @@ Though our tests ran smoothly, there are things you can implement in order the b
 ### List of Tests
 
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
-|RocketFireEmblem|---|---|---|---|
-| | | | | |
+|---|---|---|---|---|
+| RocketFireEmblem |Pass|Jonathan Sanchez |105876 |Controls, Menu, Multiplayer, Online, Features |
 
 ## SECTION 3: SUMMARY OF DEFECTS
 
