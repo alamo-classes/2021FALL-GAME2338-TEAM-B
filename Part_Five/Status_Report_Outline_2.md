@@ -35,8 +35,8 @@ We assigned each other different tasks to accomplish with each given test. We we
 
 ## What has been completed and date of completion
 
-(Paragraph)
+We all made sure, we got together during the appropiate times, and worked on the assignments seperately/together. Everything is now completed by December 8th.
 
 # General Notes/Overall Status
 
-(Paragraph)
+As a general statement, we all worked accordingly to schdule. Any progress being made was always said through discord and if we ever needed help, we all asked each other to complete the said task on time. The tasks given out, had more than enough time to work on and turn in a timely manner. Everything now seems to be done, and ready to be turned in appropiately.
