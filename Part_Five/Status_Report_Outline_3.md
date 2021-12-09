@@ -28,8 +28,8 @@ As of right now, the test report needs to be completed before the up and coming 
 
 ## What has been completed and date of completion
 
-(Paragraph)
+As stated, everything has been accounted for except for the test report. That includes the outline and test cases ran.
 
 # General Notes/Overall Status
 
-(Paragraph)
+none to add.
