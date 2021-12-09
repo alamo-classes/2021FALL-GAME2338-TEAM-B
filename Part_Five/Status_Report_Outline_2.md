@@ -16,21 +16,22 @@ We assigned each other different tasks to accomplish with each given test. We we
 
 # Current Schedule
 
-| # |	Run Date |	Run By |	Results |
-| --- | --- | --- | --- |
-| 1 |10/15/2021 |Wesley W |√ |			
-| 2 |10/25/2021 |Jonathan S |√|			
-| 3 |10/30/2021 |Javier P |√|
+|	Group Meetings | Achieved? |	Results |
+| --- | --- | --- |
+|10/15/2021 |Splitting up the tasks |√ |			
+|10/25/2021 |Began to write tests |√|			
+|10/30/2021 |Progress |√|
+|11/30/2021 |Final Progress |√|
 
 # Changes
 
-* Control System, Menu System, Online, Multiplayer, Users
+* Trying to add more possibilites for test cases
+* Made a list on what to be looking for when playing Rocket League
+* Always made sure the work was done in a timely manner.
 
 ## Additional tasks to add
 
-* Regression
-* Smoke
-* Quality
+* Everything was successfully achieved when testing Rocket League
 
 ## What has been completed and date of completion
 
