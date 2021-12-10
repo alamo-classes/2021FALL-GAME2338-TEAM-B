@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * 105876
+  * 001
 * Test Case Name:
   * RocketFireEmblem
 * Component: 
@@ -27,34 +27,28 @@
   * Online
   * Features
 * Test Description/Purpose:
-  * Are theses functioning
+  * Are the players able to hide and seek accordingly within the given time frame
 * Pre-Test Conditions:
-  * PC
-  * PlayStation
-  * Xbox
-  * Nintendo Switch
+  * The game works on pc & console, making sure everything is functioning
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Controls |Functional|√ |			
-| 2 |Menu's |Functional |√ |			
+| 1 |Character Movement |Functional|√ |			
+| 2 |Is the game running smooth |Functional |√ |			
 | 3 |Multiplayer |Functional |√ |			
-| 4 |Online |Needs more work |- |			
-| 5 |Sound |Functional |√ |			
-| 6 |Users |Functional |√ |			
-| 7 |PC |Functional |√ |			
-| 8 |Playstation |Functional |√ |			
-| 9 |Xbox |Functional |√ |			
-| 10 |Nintendo Switch |Functional |√ |			
+| 4 |Are the maps big enough to hide |slight adjustments in map size |- |			
+| 5 |Are they given enough time |a little too much time |√ |			
+| 6 |Can everyone hide appropiately without being found right away|Could be improved |√ |			
+
 
 ## Overall Test Status:
 
-
+This game seems really enjoyable to play. It gives everyone a chance to hide and or seek. The maps are relatively big so you can hide really easy. There's a ton of hiding spots you can hide in. The time they give you to seek/hide is more than plenty. A few things that could be improved is making the setting to lower the time and potentially controlability over the size of the map or implement a circle in which you can hide in. 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 |11/15/2021 |Jonathan Sanchez |- |			
-| 2 |11/25/2021 |Jonathan Sanchez |Testing|			
-| 3 |11/30/2021 |Jonathan Sanchez |√ |			
+| 1 |11/20/2021 |Jonathan Sanchez |- |			
+| 2 |11/28/2021 |Jonathan Sanchez |Testing|			
+| 3 |12/08/2021 |Jonathan Sanchez |√ |			
 
