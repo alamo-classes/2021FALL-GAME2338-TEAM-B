@@ -8,10 +8,7 @@
   * RocketFireEmblem
 * Component: 
   * Controls for car
-  * Menu's
-  * Multiplayer
-  * Online
-  * Features
+  * Length of match
 * Test Case Designer:
   * Jonathan Sanchez
 * Creation Date:
@@ -22,38 +19,23 @@
   * 11/12/2021
 * Requirements Covered:
   * Controls for car
-  * Menu's
-  * Multiplayer
-  * Online
-  * Features
+  * Length of match
 * Test Description/Purpose:
   * Are the cars going at an appropiate speed & is there enough time between games.
 * Pre-Test Conditions:
-  * PC
-  * PlayStation
-  * Xbox
-  * Nintendo Switch
+  * Is the game functioning and will the game run
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 |Controls |Functional|√ |			
-| 2 |Menu's |Functional |√ |			
-| 3 |Multiplayer |Functional |√ |			
-| 4 |Online |Needs more work |- |			
-| 5 |Sound |Functional |√ |			
-| 6 |Users |Functional |√ |			
-| 7 |PC |Functional |√ |			
-| 8 |Playstation |Functional |√ |			
-| 9 |Xbox |Functional |√ |			
-| 10 |Nintendo Switch |Functional |√ |			
+| 2 |Match time |could be adjusted slightly |√ |				
 
 ## Overall Test Status:
 
-
+The game runs great! The cars drive at an appropiate speed and it gives all the players enough time in between each match to successfully win the game.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 |11/15/2021 |Jonathan Sanchez |- |			
-| 2 |11/25/2021 |Jonathan Sanchez |Testing|			
-| 3 |11/30/2021 |Jonathan Sanchez |√ |			
+| 1 |11/10/2021 |Jonathan Sanchez |- |			
+| 2 |11/12/2021 |Jonathan Sanchez |Testing|				
