@@ -15,11 +15,11 @@
 * Test Case Designer:
   * Jonathan Sanchez
 * Creation Date:
-  * 11/30/2021
+  * 11/10/2021
 * Modified By:
   * Jonathan Sanchez
 * Modified Date:
-  * 12/4/2021
+  * 11/12/2021
 * Requirements Covered:
   * Controls for car
   * Menu's
@@ -27,7 +27,7 @@
   * Online
   * Features
 * Test Description/Purpose:
-  * Are theses functioning
+  * Are the cars going at an appropiate speed & is there enough time between games.
 * Pre-Test Conditions:
   * PC
   * PlayStation
