@@ -127,3 +127,45 @@ The game runs smooth! The cars can be very customizable as long as you have the 
 | 1 |11/14/2021 |Jonathan Sanchez |- |			
 | 2 |11/16/2021 |Jonathan Sanchez |Testing|				
 
+# Test Case 
+
+## Test Details
+
+* Test Case ID:
+  * 004
+* Test Case Name:
+  * RocketQueen
+* Component: 
+  * Multiplayer Stability
+  * Sound Mechanics
+* Test Case Designer:
+  * Jonathan Sanchez
+* Creation Date:
+  * 11/18/2021
+* Modified By:
+  * Jonathan Sanchez
+* Modified Date:
+  * 11/20/2021
+* Requirements Covered:
+  * Multiplayer Stability
+  * Sound Mechanics
+* Test Description/Purpose:
+  * Is Multiplayer stable
+  * Do the sounds/sound effects match the game well
+* Pre-Test Conditions:
+  * Will the multiplayer function good and will the sounds be compatible with the rest of the game
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 |Sounds |Some sounds could be adjusted |√ |			
+| 2 |Multiplayer System |servers could be adjusted |√ |				
+
+## Overall Test Status:
+
+Sound System works good, but sound effects could be worked on to better match the game. Servers could also be worked on so lag doesn't occur depending on where you're located.
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 |11/18/2021 |Jonathan Sanchez |- |			
+| 2 |11/20/2021 |Jonathan Sanchez |Testing|				
