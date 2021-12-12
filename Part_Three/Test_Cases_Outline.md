@@ -83,3 +83,47 @@ The game runs great! The menu's are easy to navigate throughout. You can pick yo
 | --- | --- | --- | --- |
 | 1 |11/15/2021 |Jonathan Sanchez |- |			
 | 2 |11/17/2021 |Jonathan Sanchez |Testing|				
+
+# Test Case 
+
+## Test Details
+
+* Test Case ID:
+  * 003
+* Test Case Name:
+  * RocketKing
+* Component: 
+  * System Stability
+  * Cars
+* Test Case Designer:
+  * Jonathan Sanchez
+* Creation Date:
+  * 11/14/2021
+* Modified By:
+  * Jonathan Sanchez
+* Modified Date:
+  * 11/16/2021
+* Requirements Covered:
+  * System Stability
+  * Cars
+* Test Description/Purpose:
+  * Are the cars customizable enough 
+  * Will the system be stable enough to run little to no lag
+* Pre-Test Conditions:
+  * Is the game going to be stable
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 |Customizable Cars |Functional|√ |			
+| 2 |System Stability |Functional |√ |				
+
+## Overall Test Status:
+
+The game runs smooth! The cars can be very customizable as long as you have the cosmetics to use on your car(s). The system is very stable!
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 |11/14/2021 |Jonathan Sanchez |- |			
+| 2 |11/16/2021 |Jonathan Sanchez |Testing|				
+
