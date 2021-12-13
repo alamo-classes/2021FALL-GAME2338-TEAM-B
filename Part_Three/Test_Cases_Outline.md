@@ -212,3 +212,104 @@ Online is stable and Useres can use there account.
 | --- | --- | --- | --- |
 | 1 |10/18/2021 |WesleyWinchester |√ |			
 | 2 |10/20/2021 |Jonathan Sanchez |Testing|
+
+# Test Case 
+
+## Test Details
+
+* Test Case ID:
+  * 006
+* Test Case Name:
+  * Rocketgamemode
+* Component: 
+  * Online
+  * Multiplayer Stability 
+  * Gameplay mechanics 
+* Test Case Designer:
+  * JavierPadilla
+* Creation Date:
+  * 12/11/2021
+* Modified By:
+  * Javier Padilla
+* Modified Date:
+  * 12/11/2021
+* Requirements Covered:
+  * Online
+  * Gameplay 
+* Test Description/Purpose:
+  * Is Online stable
+  * Do the powerups work as intended
+* Pre-Test Conditions:
+  * Will the online be stable and will Users understand there accounts
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 |Online |Stable connection |√ |			
+| 2 |Multiplayer |Matches are found under 2 minutes |√ |
+| 3 |Collecting power up| Picking up the power up is responisve and quick|√ |
+| 4 |Using power up| The power up does its intended function without breaking or disconnecting the match|√ |
+
+
+## Overall Test Status:
+
+The game mode runs pretty much the same as the main game mode, just with the addition of power ups. The power ups vary and all work as intended without breaking the game or match.
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 |12/11/2021 |Javier Padilla |√ |			
+| 2 |12/11/2021 |Javier Padilla |√ |
+
+## Test Details
+
+* Test Case ID:
+  * 007
+* Test Case Name:
+  * Rocketclip 
+* Component: 
+  * Online
+  * Multiplayer Stability 
+  * Gameplay mechanics 
+* Test Case Designer:
+  * JavierPadilla
+* Creation Date:
+  * 12/11/2021
+* Modified By:
+  * Javier Padilla
+* Modified Date:
+  * 12/11/2021
+* Requirements Covered:
+  * Online
+  * Gameplay
+  * Cosmetics 
+  * Collision
+* Test Description/Purpose:
+  * Is Online stable
+  * Is the multiplayer connection quick and stable
+  * Will the cars not clip into eachother upon any impact despite cosmetics 
+* Pre-Test Conditions:
+  * Will the online be stable and will Users understand there accounts
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 |Online |Stable connection |√ |			
+| 2 |Multiplayer |Matches are found under 2 minutes |√ |
+| 3 |Cosmetics already on| The cars have full cosmetics on|√ |
+| 4 |Colliding cars| The cars fully collided with each other in various ways and did not clip into each other.|√ |
+
+
+## Overall Test Status:
+
+The collision works as intended with no clipping between cars. When they impact, the player can feel it and they bounce off of each other in predictable manners.
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 |12/11/2021 |Javier Padilla |√ |			
+| 2 |12/11/2021 |Javier Padilla |√ |
+
+
+
+
+
+
